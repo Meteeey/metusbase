@@ -4,11 +4,11 @@ This package is an NPM module that makes using JSON and Mongo fast, secure and e
 _____________________________________________________________________________________________________________
 
 ```
-npm install metusdb
+npm install metusbase
 
 or
 
-pnpm install metusdb
+pnpm install metusbase
 ```
 
 _____________________________________________________________________________________________________________
